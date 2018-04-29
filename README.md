@@ -4,7 +4,7 @@ Authors:
 - Aditya Gourav
 - Dhruva Kumar
 
-The goal of the project is to automatically detect and seamlessly replace all the faces in an image with a reference face. The pipeline for face replacement in images is then extended to videos. This was the final project for (CIS 581 Computer vision and computational photography)[www.seas.upenn.edu/~cis581] done in 2014.
+The goal of the project is to automatically detect and seamlessly replace all the faces in an image with a reference face. The pipeline for face replacement in images is then extended to videos. This was the final project for [CIS 581 Computer vision and computational photography)(www.seas.upenn.edu/~cis581) done in 2014.
 
 ## Project pipeline and results
 
